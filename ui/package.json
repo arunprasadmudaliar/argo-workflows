@@ -12,7 +12,7 @@
         "test": "jest"
     },
     "dependencies": {
-        "argo-ui": "https://github.com/argoproj/argo-ui.git",
+        "argo-ui": "https://github.com/arunprasadmudaliar/argo-ui.git",
         "chart.js": "^2.9.4",
         "chartjs-plugin-annotation": "^0.5.7",
         "classnames": "^2.2.5",
